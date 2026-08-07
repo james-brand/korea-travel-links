@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-03 — 32 guides
+> Last updated: 2026-08-07 — 34 guides
 
 ## Before You Go
 
@@ -116,6 +116,14 @@ The island: reservations, buses, and what closes when.
 
 - **[Jeju Haenyeo: Where to Actually See the Women Divers](https://hanokdays.com/posts/jeju-haenyeo-guide/)**
   Jeju's haenyeo women divers are easy to read about and hard to actually see.
+
+## More
+
+- **[K-pop Company Buildings in Seoul: What You Can Actually Enter](https://hanokdays.com/posts/kpop-buildings-seoul/)**
+  HYBE Insight closed in 2023 and SMTOWN at COEX in 2020. What is left is KWANGYA@SEOUL in Seongsu — free, 10:30 to 20:00 — plus exterior-only JYP and YG.
+
+- **[How to Attend a K-pop Music Show in Korea: The Routes That Still Work](https://hanokdays.com/posts/kpop-music-show-attend/)**
+  Seven K-pop music shows air weekly near Seoul. Only two take applications from visitors — and the roll call, not the broadcast time, is the real deadline.
 
 ---
 
