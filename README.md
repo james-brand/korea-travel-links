@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-07 — 34 guides
+> Last updated: 2026-08-08 — 37 guides
 
 ## Before You Go
 
@@ -109,7 +109,7 @@ The island: reservations, buses, and what closes when.
   Manjanggul reopened in May 2026 after nearly two and a half years closed. Only 1km is open, it's 14°C inside, and it closes the first Wednesday monthly.
 
 - **[Visiting Jeju Without a Car: Buses, Fares and the 40-Minute Transfer Rule](https://hanokdays.com/posts/jeju-without-a-car/)**
-  Jeju's bus system is usable without a car if you understand the route number bands, the 40-minute transfer window, and the same-route exclusion.
+  Jeju without a car: bus route number bands, the 40-minute transfer window, the same-route exclusion, and the taxi fares — including the 23:00 night surcharge.
 
 - **[Jeju Olle Trail: Reading the Signs and Choosing a Course](https://hanokdays.com/posts/jeju-olle-trail-guide/)**
   The Jeju Olle Trail is waymarked by a blue-and-orange system most guides don't explain — the ganse pony, arrow colours, and ribbons.
@@ -124,6 +124,15 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Attend a K-pop Music Show in Korea: The Routes That Still Work](https://hanokdays.com/posts/kpop-music-show-attend/)**
   Seven K-pop music shows air weekly near Seoul. Only two take applications from visitors — and the roll call, not the broadcast time, is the real deadline.
+
+- **[Noraebang in Korea: How Coin and Standard Karaoke Rooms Actually Work](https://hanokdays.com/posts/noraebang-korea-guide/)**
+  Coin noraebang, standard rooms, and what the licence actually permits — including the minors' curfew exception that English guides say does not exist.
+
+- **[Gayo Daejeon and Korea's Year-End K-pop Shows: Can You Actually Attend?](https://hanokdays.com/posts/korea-year-end-music-festivals/)**
+  Korea's year-end K-pop shows fill their seats by free lottery, and in 2025 none of them was held in Seoul. What it takes to get in — and to get home.
+
+- **[Gocheok Sky Dome vs KSPO Dome: Seats, Stations, and Getting Out](https://hanokdays.com/posts/seoul-kpop-concert-venues/)**
+  Gocheok Sky Dome and KSPO Dome host most K-pop concerts in Seoul. The seat numbering, the station structure and the park closing times decide your night.
 
 ---
 
