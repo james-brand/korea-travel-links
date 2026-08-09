@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-08 — 37 guides
+> Last updated: 2026-08-09 — 42 guides
 
 ## Before You Go
 
@@ -133,6 +133,21 @@ The island: reservations, buses, and what closes when.
 
 - **[Gocheok Sky Dome vs KSPO Dome: Seats, Stations, and Getting Out](https://hanokdays.com/posts/seoul-kpop-concert-venues/)**
   Gocheok Sky Dome and KSPO Dome host most K-pop concerts in Seoul. The seat numbering, the station structure and the park closing times decide your night.
+
+- **[Gyeongbokgung Tickets in 2026: Free Days, Closures, and the Hanbok Rule](https://hanokdays.com/posts/gyeongbokgung-guide/)**
+  Gyeongbokgung closes Tuesdays, is free only on the last Wednesday, and the hanbok exemption has a written dress code that rules out several rental outfits.
+
+- **[Changdeokgung Secret Garden: The Booking Rules English Guides Missed](https://hanokdays.com/posts/changdeokgung-secret-garden/)**
+  Booking Changdeokgung's Secret Garden in 2026: the palace pass no longer covers it, guided tours are now optional, and English sessions sell out first.
+
+- **[Jjimjilbang Rules in Korea: The Two Clocks, the Curfew, and Who Gets Turned Away](https://hanokdays.com/posts/jjimjilbang-guide/)**
+  Korean bath houses run on two different clocks, minors face a statutory night curfew with a written-consent exception, and one venue English guides still rank first no longer exists.
+
+- **[DMZ Tours in 2026: What's Open, What Isn't, and What You Can Book Yourself](https://hanokdays.com/posts/dmz-tour-guide/)**
+  Panmunjom is closed to foreign passports in 2026, but the Third Tunnel and Dora Observatory are not — and you do not need a tour company for them.
+
+- **[National Museum of Korea: Free Entry, New 2026 Hours, and What to See First](https://hanokdays.com/posts/national-museum-korea/)**
+  The permanent galleries are still free, but the museum moved its hours in March 2026 and English travel sites still list the old ones. What's current.
 
 ---
 
