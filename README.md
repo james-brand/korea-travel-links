@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-09 — 42 guides
+> Last updated: 2026-08-10 — 47 guides
 
 ## Before You Go
 
@@ -148,6 +148,21 @@ The island: reservations, buses, and what closes when.
 
 - **[National Museum of Korea: Free Entry, New 2026 Hours, and What to See First](https://hanokdays.com/posts/national-museum-korea/)**
   The permanent galleries are still free, but the museum moved its hours in March 2026 and English travel sites still list the old ones. What's current.
+
+- **[Busan to Fukuoka Ferry: The Check-In Window English Guides Get Wrong](https://hanokdays.com/posts/busan-fukuoka-ferry/)**
+  Busan–Fukuoka ferry check-in closes at 18:30 — four hours before the 22:30 sailing, not the 60–90 minutes every English booking site tells you.
+
+- **[Busan Attractions: Getting to the Spots the Subway Doesn't Reach](https://hanokdays.com/posts/busan-attractions-guide/)**
+  Busan's best sights sit where the subway doesn't go — and several close on days English guides never mention. Access and fares checked August 2026.
+
+- **[Busan Beaches 2026: Opening Dates, Hours and Beach-by-Beach Rules](https://hanokdays.com/posts/busan-beaches-guide/)**
+  Busan's seven beaches open on different 2026 dates, swim 09:00–18:00, and each district enforces the night ban differently. Haeundae runs to 15 September.
+
+- **[Busan Markets: Which Days Jagalchi, Gukje and Bupyeong Are Closed](https://hanokdays.com/posts/busan-markets-guide/)**
+  Jagalchi closes the 1st, 3rd and 5th Tuesdays — the fish market next door closes the other two. Gukje closes Sunday. Busan market hours, verified for 2026.
+
+- **[Where to Stay in Busan: Access, and the Licence Check Nobody Mentions](https://hanokdays.com/posts/where-to-stay-in-busan/)**
+  Busan's bases compared by what they reach — airport, KTX, ferry pier. Plus how to check a Korean guesthouse is actually licensed before you book.
 
 ---
 
