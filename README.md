@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-10 — 47 guides
+> Last updated: 2026-08-13 — 54 guides
 
 ## Before You Go
 
@@ -19,7 +19,7 @@ Visas, money, connectivity — the things to settle before you fly.
   Korea's drinking age is 19 — but by year age, not birthday, so the cutoff is 1 January.
 
 - **[Do You Need a K-ETA for Korea? And Should You Get One Anyway?](https://hanokdays.com/posts/k-eta-korea-guide/)**
-  Many nationalities are temporarily exempt from Korea's K-ETA in 2026 — so the question is not whether you need it, but whether the ₩10,000 option is worth it.
+  Many nationalities are temporarily exempt from Korea's K-ETA through 31 December 2026 — and the arrival card it saves you can now be filed online for free. Verified August 2026.
 
 - **[eSIM vs SIM vs Pocket WiFi in Korea: What the Affiliate Guides Won't Tell You](https://hanokdays.com/posts/korea-esim-sim-wifi/)**
   Most Korea eSIM guides are affiliate pages for one global brand. Here's the honest version.
@@ -50,10 +50,10 @@ Transit cards, trains and the apps that actually work in Korea.
   Seoul's subway fare rules changed twice in 2026 — a tap-out penalty in March and a 15-minute re-entry exemption in June.
 
 - **[T-money Card: Buying, Topping Up, and Getting Your Money Back](https://hanokdays.com/posts/tmoney-card-guide/)**
-  How to buy, load and refund a T-money card in Korea — including the refund fee tiers and the convenience store limits that vary by branch.
+  How to buy, load and refund a T-money card in Korea — including the refund fee tiers and the convenience store limits that differ by chain.
 
 - **[Incheon Airport to Seoul: Every Option, Including the Night Bus](https://hanokdays.com/posts/incheon-airport-to-seoul/)**
-  AREX express versus all-stop, limousine bus route numbers and first/last departures, and what to do if you land after 22:30.
+  AREX express versus all-stop, what the 6000-series bus numbers actually mean, and the four night routes that run after the last train.
 
 - **[Why Google Maps Doesn't Work in Korea — and What to Use Instead](https://hanokdays.com/posts/google-maps-korea-alternatives/)**
   Google Maps has no driving directions in Korea because of a map data export restriction.
@@ -100,13 +100,13 @@ The island: reservations, buses, and what closes when.
   Most Jeju itineraries assume a rental car and ignore the island's monthly closure days.
 
 - **[How to Visit Seongsan Ilchulbong: Sunrise Timing and the Monday Closure](https://hanokdays.com/posts/seongsan-ilchulbong-guide/)**
-  Seongsan Ilchulbong's opening hours, ticket cut-offs and sunrise times all shift by season, and it closes the first Monday of every month.
+  Seongsan Ilchulbong's opening hours and ticket cut-offs shift by season, sunrise moves nearly two hours across the year, and it closes the first Monday of every month.
 
 - **[How to Hike Hallasan: The Reservation System Nobody Explains](https://hanokdays.com/posts/hallasan-hiking-guide/)**
-  Hallasan's two summit trails require a free advance reservation that opens at 09:00 on the first business day of each month.
+  Hallasan's summit needs a free booking that opens at 09:00 on the first business day of the month — but since May 2025 the lower trails need none.
 
 - **[Manjanggul Lava Tube: Reopened in 2026 — What's Actually Accessible Now](https://hanokdays.com/posts/manjanggul-lava-tube/)**
-  Manjanggul reopened in May 2026 after nearly two and a half years closed. Only 1km is open, it's 14°C inside, and it closes the first Wednesday monthly.
+  Manjanggul reopened on 30 May 2026 after two years and five months closed. Only 1km is open, ticket sales stop at 17:00 — an hour before closing — and it shuts the first Wednesday monthly.
 
 - **[Visiting Jeju Without a Car: Buses, Fares and the 40-Minute Transfer Rule](https://hanokdays.com/posts/jeju-without-a-car/)**
   Jeju without a car: bus route number bands, the 40-minute transfer window, the same-route exclusion, and the taxi fares — including the 23:00 night surcharge.
@@ -163,6 +163,27 @@ The island: reservations, buses, and what closes when.
 
 - **[Where to Stay in Busan: Access, and the Licence Check Nobody Mentions](https://hanokdays.com/posts/where-to-stay-in-busan/)**
   Busan's bases compared by what they reach — airport, KTX, ferry pier. Plus how to check a Korean guesthouse is actually licensed before you book.
+
+- **[Going to a KBO Baseball Game — What to Know Before You Go](https://hanokdays.com/posts/korean-baseball-guide/)**
+  A first-timer's guide to KBO baseball games: the rain-refund gap between Trazy and Korea's official ticketing system, and the real game-start schedule.
+
+- **[Jamsil Baseball Stadium Closes in 2026 — Where KBO Games Go Next](https://hanokdays.com/posts/jamsil-stadium-last-season/)**
+  Jamsil Baseball Stadium's real closing date, the 2027 interim stadium's cut seat count, and access changes most English KBO guides still miss (Aug 2026).
+
+- **[KBO Tickets for Foreigners: Why 'Global' Sites Don't Sell Them](https://hanokdays.com/posts/kbo-tickets-foreigners/)**
+  Ticketlink Global and Interpark Global don't sell KBO tickets, checked directly in August 2026. Here's why online booking fails and what actually works.
+
+- **[Which KBO Stadium Should You Go To — 10 Teams, 8 Cities](https://hanokdays.com/posts/kbo-stadiums-guide/)**
+  KBO ticket booking splits three ways by team, and most English guides get it wrong. A city-by-city comparison of all 10 teams, checked on KBO's own site.
+
+- **[KBO Stadium Rules: Bags, Alcohol, and Food Explained by Stadium](https://hanokdays.com/posts/kbo-stadium-rules-food/)**
+  KBO bag, alcohol and outside food rules are set club by club, not league-wide — 6% ABV at Gocheok, 8% at KT Wiz, smaller bags in Gwangju. What's confirmed.
+
+- **[KBO Postseason Tickets 2026 — Schedule Delays and NOL-Only Sales](https://hanokdays.com/posts/kbo-postseason-guide/)**
+  No 2026 KBO postseason dates yet — a heat wave break pushed the season back, and tickets sell only through NOL Ticket, not the apps most guides recommend.
+
+- **[Lotte Giants at Sajik Stadium: A Busan Baseball Guide](https://hanokdays.com/posts/sajik-stadium-lotte-giants/)**
+  Lotte Giants tickets aren't on Ticketlink or Interpark, and online booking is members-only. How to get into Sajik Stadium without a Korean account.
 
 ---
 
