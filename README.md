@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-21 — 58 guides
+> Last updated: 2026-08-21 — 59 guides
 
 ## Before You Go
 
@@ -196,6 +196,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Rent a Hanbok Near Gyeongbokgung — What Isn't in the Price](https://hanokdays.com/posts/hanbok-rental-guide/)**
   What hanbok rental near Gyeongbokgung actually includes: base prices at five shops, which extras are billed on top, and the dress rule for free palace entry.
+
+- **[How to Buy and Use the Seoul Climate Card as a Foreigner (2026 Update)](https://hanokdays.com/posts/climate-card-foreigner-guide/)**
+  How foreigners buy and use Seoul's Climate Card in 2026 — prices, where the pass works, and what the October 1 coverage change means for your travel dates.
 
 ---
 
