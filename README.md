@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-13 — 54 guides
+> Last updated: 2026-08-21 — 58 guides
 
 ## Before You Go
 
@@ -184,6 +184,18 @@ The island: reservations, buses, and what closes when.
 
 - **[Lotte Giants at Sajik Stadium: A Busan Baseball Guide](https://hanokdays.com/posts/sajik-stadium-lotte-giants/)**
   Lotte Giants tickets aren't on Ticketlink or Interpark, and online booking is members-only. How to get into Sajik Stadium without a Korean account.
+
+- **[Korea Dropped Its Duty-Free Bottle Limit. Google Still Says 2](https://hanokdays.com/posts/korea-customs-allowance/)**
+  Korea scrapped the two-bottle cap on duty-free alcohol in March 2025 — only 2 litres and $400 apply now. Verified on the Korean customs page, August 2026.
+
+- **[Bringing Medication to Korea? The Rule Has 3 Tiers, Not 2](https://hanokdays.com/posts/bringing-medication-to-korea/)**
+  Korea's medication rules have three tiers, not two — and the six-bottle rule doesn't apply to the middle one. Verified against Korean law, August 2026.
+
+- **[Korea Customs Food Rules — Why Enforcement Got Stricter in 2026](https://hanokdays.com/posts/korea-customs-food-rules/)**
+  Korea's food quarantine rules didn't change in 2026, but enforcement did — two nationwide crackdowns and a ₩5 million fine. Here's what the law caps at.
+
+- **[How to Rent a Hanbok Near Gyeongbokgung — What Isn't in the Price](https://hanokdays.com/posts/hanbok-rental-guide/)**
+  What hanbok rental near Gyeongbokgung actually includes: base prices at five shops, which extras are billed on top, and the dress rule for free palace entry.
 
 ---
 
