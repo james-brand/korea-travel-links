@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-22 — 60 guides
+> Last updated: 2026-08-23 — 60 guides
 
 ## Before You Go
 
@@ -13,7 +13,7 @@ Visas, money, connectivity — the things to settle before you fly.
   Most visitors enter Korea visa-free for up to 90 days — but the extension rules are stricter than guides suggest, and a K-ETA sits on top of the visa question.
 
 - **[Korean Age in 2026: The Law Unified It, but Three Systems Still Coexist](https://hanokdays.com/posts/korean-age-guide/)**
-  Korea unified to international age in 2023, but three counting systems still coexist.
+  Korea made international age the legal default in 2023, but year age and counting age still coexist. Which system applies where, and how to work yours out.
 
 - **[Drinking Age in Korea: ID Rules, Seller Penalties, and No-Drinking Zones](https://hanokdays.com/posts/drinking-age-in-korea/)**
   Korea's drinking age is 19, but the real questions are which ID works, what sellers risk, and where no-drinking zones now apply, as of August 2026.
@@ -65,8 +65,8 @@ Transit cards, trains and the apps that actually work in Korea.
 
 What to order, where to drink, and the rules nobody explains.
 
-- **[Drinking in Korea: A Practical Guide for Visitors](https://hanokdays.com/posts/drinking-in-korea/)**
-  A practical overview of drinking in Korea — the etiquette that matters, where you can and can't drink in 2026, what to order, and how it all connects.
+- **[How Drinking Nights Work in Korea — Rounds, the Bill, and Saying No](https://hanokdays.com/posts/drinking-in-korea/)**
+  How a Korean drinking night actually runs — rounds, who pours, splitting the bill, and how often saying no really works, based on 2024 survey data.
 
 - **[Soju in 2026: It's Weaker Than Your Guidebook Says](https://hanokdays.com/posts/soju-guide-korea/)**
   Korea's soju has quietly dropped to 15.7% in 2026, convenience-store bottles fell to ₩1,900, and the pouring etiquette guides describe is only half the story.
