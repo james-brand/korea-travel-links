@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-21 — 59 guides
+> Last updated: 2026-08-22 — 60 guides
 
 ## Before You Go
 
@@ -199,6 +199,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Buy and Use the Seoul Climate Card as a Foreigner (2026 Update)](https://hanokdays.com/posts/climate-card-foreigner-guide/)**
   How foreigners buy and use Seoul's Climate Card in 2026 — prices, where the pass works, and what the October 1 coverage change means for your travel dates.
+
+- **[Seoraksan and Jirisan Shelter Reservations: How Korea's Lottery System Works](https://hanokdays.com/posts/national-park-shelter-reservation/)**
+  Seoraksan and Jirisan shelter nights are drawn by lottery, not booked first-come. The even-month window, the real prices, and the leftover-spot date.
 
 ---
 
