@@ -12,11 +12,11 @@ Visas, money, connectivity — the things to settle before you fly.
 - **[Do You Need a Visa for Korea? The 90-Day Rule Most Guides Get Half Right](https://hanokdays.com/posts/korea-visa-guide/)**
   Most visitors enter Korea visa-free for up to 90 days — but the extension rules are stricter than guides suggest, and a K-ETA sits on top of the visa question.
 
-- **[Korean Age in 2026: Why the Drinking Age Still Uses the Old System](https://hanokdays.com/posts/korean-age-guide/)**
+- **[Korean Age in 2026: The Law Unified It, but Three Systems Still Coexist](https://hanokdays.com/posts/korean-age-guide/)**
   Korea unified to international age in 2023, but three counting systems still coexist.
 
-- **[Drinking Age in Korea: Who Can Legally Drink, and How It's Counted](https://hanokdays.com/posts/drinking-age-in-korea/)**
-  Korea's drinking age is 19 — but by year age, not birthday, so the cutoff is 1 January.
+- **[Drinking Age in Korea: ID Rules, Seller Penalties, and No-Drinking Zones](https://hanokdays.com/posts/drinking-age-in-korea/)**
+  Korea's drinking age is 19, but the real questions are which ID works, what sellers risk, and where no-drinking zones now apply, as of August 2026.
 
 - **[Do You Need a K-ETA for Korea? And Should You Get One Anyway?](https://hanokdays.com/posts/k-eta-korea-guide/)**
   Many nationalities are temporarily exempt from Korea's K-ETA through 31 December 2026 — and the arrival card it saves you can now be filed online for free. Verified August 2026.
