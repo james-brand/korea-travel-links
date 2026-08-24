@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-23 — 60 guides
+> Last updated: 2026-08-24 — 61 guides
 
 ## Before You Go
 
@@ -202,6 +202,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoraksan and Jirisan Shelter Reservations: How Korea's Lottery System Works](https://hanokdays.com/posts/national-park-shelter-reservation/)**
   Seoraksan and Jirisan shelter nights are drawn by lottery, not booked first-come. The even-month window, the real prices, and the leftover-spot date.
+
+- **[Bulguksa and Seokguram in 2026: What's Actually Free, and What Isn't](https://hanokdays.com/posts/bulguksa-seokguram-guide/)**
+  Bulguksa and Seokguram have been free since 2023, but two 2025 guides still charge full price — and get the last-entry times wrong too.
 
 ---
 
