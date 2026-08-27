@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-25 — 61 guides
+> Last updated: 2026-08-27 — 63 guides
 
 ## Before You Go
 
@@ -205,6 +205,12 @@ The island: reservations, buses, and what closes when.
 
 - **[Bulguksa and Seokguram in 2026: What's Actually Free, and What Isn't](https://hanokdays.com/posts/bulguksa-seokguram-guide/)**
   Bulguksa and Seokguram have been free since 2023, but two 2025 guides still charge full price — and get the last-entry times wrong too.
+
+- **[Gyeongju at Night: Visiting Rules for Wolji Pond, Cheomseongdae, and Daereungwon](https://hanokdays.com/posts/gyeongju-at-night-rules/)**
+  Donggung Palace bans picnic gear at night; Daereungwon doesn't say the same. Gyeongju's own sources also disagree on Cheomseongdae's closing time (2026).
+
+- **[How to Visit Yangdong Folk Village — What ₩4,000 Doesn't Open](https://hanokdays.com/posts/yangdong-folk-village-guide/)**
+  Yangdong Folk Village costs ₩4,000, but most houses stay shut. Here's the free guided tour schedule, the bus gap, and the homestay refund rules (2026).
 
 ---
 
