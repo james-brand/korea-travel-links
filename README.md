@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-27 — 63 guides
+> Last updated: 2026-08-29 — 64 guides
 
 ## Before You Go
 
@@ -211,6 +211,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Visit Yangdong Folk Village — What ₩4,000 Doesn't Open](https://hanokdays.com/posts/yangdong-folk-village-guide/)**
   Yangdong Folk Village costs ₩4,000, but most houses stay shut. Here's the free guided tour schedule, the bus gap, and the homestay refund rules (2026).
+
+- **[How to Buy Medicine in Korea — It's 11 Items at the Convenience Store, Not 13](https://hanokdays.com/posts/buying-medicine-in-korea/)**
+  Korea's convenience store medicine list has 13 legal items, but only 11 are in stock, plus how to find an open pharmacy at night or on Sunday.
 
 ---
 
