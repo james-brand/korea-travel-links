@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-29 — 64 guides
+> Last updated: 2026-08-30 — 65 guides
 
 ## Before You Go
 
@@ -214,6 +214,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Buy Medicine in Korea — It's 11 Items at the Convenience Store, Not 13](https://hanokdays.com/posts/buying-medicine-in-korea/)**
   Korea's convenience store medicine list has 13 legal items, but only 11 are in stock, plus how to find an open pharmacy at night or on Sunday.
+
+- **[How to Visit Jongmyo Shrine: Entry Rules by Day and Language](https://hanokdays.com/posts/jongmyo-shrine-visit-rules/)**
+  Jongmyo Shrine's entry rules split by weekday — guided-only Mon/Wed/Thu/Fri, free walk-through weekends. What Korea's official pages actually say, 2026.
 
 ---
 
