@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-30 — 66 guides
+> Last updated: 2026-08-30 — 67 guides
 
 ## Before You Go
 
@@ -220,6 +220,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Get to N Seoul Tower — Cable Car, Bus, Free Shuttle, or Walk](https://hanokdays.com/posts/namsan-cable-car-vs-hike/)**
   The cable car fare and N Seoul Tower's admission are billed separately — what each route up Namsan costs, and the free shuttle gap evening visitors miss.
+
+- **[How to Use Kakao Taxi in Korea: A Foreigner's Step-by-Step Guide](https://hanokdays.com/posts/kakao-taxi-guide/)**
+  A start-to-finish guide to calling Kakao Taxi in Korea as a foreigner — installing the app, payment workarounds, and the k.ride app most guides miss.
 
 ---
 
