@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-08-30 — 67 guides
+> Last updated: 2026-09-01 — 68 guides
 
 ## Before You Go
 
@@ -223,6 +223,9 @@ The island: reservations, buses, and what closes when.
 
 - **[How to Use Kakao Taxi in Korea: A Foreigner's Step-by-Step Guide](https://hanokdays.com/posts/kakao-taxi-guide/)**
   A start-to-finish guide to calling Kakao Taxi in Korea as a foreigner — installing the app, payment workarounds, and the k.ride app most guides miss.
+
+- **[Seeing a KBO Game in Seoul — Which Team's Tickets You Can Actually Get](https://hanokdays.com/posts/kbo-game-in-seoul/)**
+  LG and Doosan sell out fast at Jamsil. KBO attendance data shows Kiwoom's Gocheok tickets are easier to get, plus when each club's sales window opens.
 
 ---
 
