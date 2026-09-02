@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-01 — 68 guides
+> Last updated: 2026-09-02 — 69 guides
 
 ## Before You Go
 
@@ -226,6 +226,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Seeing a KBO Game in Seoul — Which Team's Tickets You Can Actually Get](https://hanokdays.com/posts/kbo-game-in-seoul/)**
   LG and Doosan sell out fast at Jamsil. KBO attendance data shows Kiwoom's Gocheok tickets are easier to get, plus when each club's sales window opens.
+
+- **[What Changes in Seoul During Chuseok — Free Palaces, Closed Museums](https://hanokdays.com/posts/chuseok-what-changes-seoul/)**
+  Chuseok flips Seoul's rules for 3 days: palaces and Jongmyo go free, but the National Museum closes. What's confirmed for 2026, and what isn't yet.
 
 ---
 
