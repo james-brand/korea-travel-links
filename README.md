@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-02 — 69 guides
+> Last updated: 2026-09-08 — 70 guides
 
 ## Before You Go
 
@@ -168,7 +168,7 @@ The island: reservations, buses, and what closes when.
   A first-timer's guide to KBO baseball games: the rain-refund gap between Trazy and Korea's official ticketing system, and the real game-start schedule.
 
 - **[Jamsil Baseball Stadium Closes in 2026 — Where KBO Games Go Next](https://hanokdays.com/posts/jamsil-stadium-last-season/)**
-  Jamsil Baseball Stadium's real closing date, the 2027 interim stadium's cut seat count, and access changes most English KBO guides still miss (Aug 2026).
+  Jamsil Baseball Stadium's last season ends October 7 — plus the interim stadium's cut seat count and the access changes English KBO guides still miss.
 
 - **[KBO Tickets for Foreigners: Why 'Global' Sites Don't Sell Them](https://hanokdays.com/posts/kbo-tickets-foreigners/)**
   Ticketlink Global and Interpark Global don't sell KBO tickets, checked directly in August 2026. Here's why online booking fails and what actually works.
@@ -229,6 +229,9 @@ The island: reservations, buses, and what closes when.
 
 - **[What Changes in Seoul During Chuseok — Free Palaces, Closed Museums](https://hanokdays.com/posts/chuseok-what-changes-seoul/)**
   Chuseok flips Seoul's rules for 3 days: palaces and Jongmyo go free, but the National Museum closes. What's confirmed for 2026, and what isn't yet.
+
+- **[Tongin Market Coin Lunchbox — How Yeopjeon Works and Why the Cafe Shuts Mondays](https://hanokdays.com/posts/tongin-market-yeopjeon/)**
+  How Tongin Market's yeopjeon coin lunchbox works — buying coins, which stalls take them, refunds, and the cafe's Monday closure Seoul's English pages miss.
 
 ---
 
