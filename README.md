@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-08 — 70 guides
+> Last updated: 2026-09-14 — 71 guides
 
 ## Before You Go
 
@@ -232,6 +232,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Tongin Market Coin Lunchbox — How Yeopjeon Works and Why the Cafe Shuts Mondays](https://hanokdays.com/posts/tongin-market-yeopjeon/)**
   How Tongin Market's yeopjeon coin lunchbox works — buying coins, which stalls take them, refunds, and the cafe's Monday closure Seoul's English pages miss.
+
+- **[Driving in Korea on a Foreign Licence — Where the English Guides Go Wrong](https://hanokdays.com/posts/idp-driving-in-korea/)**
+  Korea's Road Traffic Act recognises the 1968 Vienna permit too, not only 1949 Geneva — and Lotte's Korean and English pages disagree about Hi-Pass.
 
 ---
 
