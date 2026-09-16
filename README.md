@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-14 — 71 guides
+> Last updated: 2026-09-16 — 74 guides
 
 ## Before You Go
 
@@ -235,6 +235,15 @@ The island: reservations, buses, and what closes when.
 
 - **[Driving in Korea on a Foreign Licence — Where the English Guides Go Wrong](https://hanokdays.com/posts/idp-driving-in-korea/)**
   Korea's Road Traffic Act recognises the 1968 Vienna permit too, not only 1949 Geneva — and Lotte's Korean and English pages disagree about Hi-Pass.
+
+- **[Korean Photo Booth QR Codes: How Long Each Brand Keeps Your Photos](https://hanokdays.com/posts/korea-photo-booth-guide/)**
+  Life4Cuts gives you three calendar days, Photoism 72 hours, Haru Film and Photogray 24. Korean photo booth QR expiry by brand, from the brands' own pages.
+
+- **[Lost and Found in Korea: Where Your Item Is, by Where You Lost It](https://hanokdays.com/posts/korea-lost-and-found/)**
+  Lost something in Korea? The site English guides point to didn't load. Here's who actually holds your item — by where you lost it and how long it's been.
+
+- **[Seoul Subway Accessibility: Platform Gaps, Ramps, and the Right Door](https://hanokdays.com/posts/seoul-subway-accessibility/)**
+  Seoul Metro flags 152 stations with a platform gap over 10 cm and publishes the narrowest boarding spot at each. What its Korean pages say, in English.
 
 ---
 
