@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-16 — 74 guides
+> Last updated: 2026-09-21 — 76 guides
 
 ## Before You Go
 
@@ -244,6 +244,12 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoul Subway Accessibility: Platform Gaps, Ramps, and the Right Door](https://hanokdays.com/posts/seoul-subway-accessibility/)**
   Seoul Metro flags 152 stations with a platform gap over 10 cm and publishes the narrowest boarding spot at each. What its Korean pages say, in English.
+
+- **[Lotte World Magic Pass: Prices, Booking Windows, and Ride Limits for Every Tier](https://hanokdays.com/posts/lotte-world-magic-pass-foreigners/)**
+  Lotte World Magic Pass prices for all four tiers, when booking actually opens, and the purchase and refund rules most English coverage leaves out (2026).
+
+- **[Hwadamsup Autumn Tickets 2026: Buying in English, and Getting There](https://hanokdays.com/posts/hwadamsup-autumn-tickets-foreigners/)**
+  Hwadamsup autumn tickets sell in English on NOL's international site — eight fare tiers, no monorail. And every Seoul shuttle runs Tuesday to Friday.
 
 ---
 
