@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-21 — 76 guides
+> Last updated: 2026-09-22 — 77 guides
 
 ## Before You Go
 
@@ -250,6 +250,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Hwadamsup Autumn Tickets 2026: Buying in English, and Getting There](https://hanokdays.com/posts/hwadamsup-autumn-tickets-foreigners/)**
   Hwadamsup autumn tickets sell in English on NOL's international site — eight fare tiers, no monorail. And every Seoul shuttle runs Tuesday to Friday.
+
+- **[Seoraksan Cable Car Tickets: No Advance Booking, and What Time to Arrive](https://hanokdays.com/posts/seoraksan-cable-car-autumn/)**
+  Seoraksan's Gwongeumseong cable car takes no advance booking at all — the 2026 fares, what the timed ticket really means, and when to arrive in autumn.
 
 ---
 
