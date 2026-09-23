@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-22 — 77 guides
+> Last updated: 2026-09-23 — 78 guides
 
 ## Before You Go
 
@@ -228,7 +228,7 @@ The island: reservations, buses, and what closes when.
   LG and Doosan sell out fast at Jamsil. KBO attendance data shows Kiwoom's Gocheok tickets are easier to get, plus when each club's sales window opens.
 
 - **[What Changes in Seoul During Chuseok — Free Palaces, Closed Museums](https://hanokdays.com/posts/chuseok-what-changes-seoul/)**
-  Chuseok flips Seoul's rules for 3 days: palaces and Jongmyo go free, but the National Museum closes. What's confirmed for 2026, and what isn't yet.
+  Chuseok flips Seoul's rules for four days: the palaces and Jongmyo go free September 24–27, 2026, but the National Museum closes on the 25th.
 
 - **[Tongin Market Coin Lunchbox — How Yeopjeon Works and Why the Cafe Shuts Mondays](https://hanokdays.com/posts/tongin-market-yeopjeon/)**
   How Tongin Market's yeopjeon coin lunchbox works — buying coins, which stalls take them, refunds, and the cafe's Monday closure Seoul's English pages miss.
@@ -253,6 +253,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoraksan Cable Car Tickets: No Advance Booking, and What Time to Arrive](https://hanokdays.com/posts/seoraksan-cable-car-autumn/)**
   Seoraksan's Gwongeumseong cable car takes no advance booking at all — the 2026 fares, what the timed ticket really means, and when to arrive in autumn.
+
+- **[Booking the Ski Shuttle From Seoul — What Korea's Resorts Leave Out](https://hanokdays.com/posts/korea-ski-shuttle-booking/)**
+  Korean ski resorts run separate shuttle booking sites for foreign visitors, with different fares and rules than the domestic ones. Here's how it actually works.
 
 ---
 
