@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-23 — 78 guides
+> Last updated: 2026-09-27 — 79 guides
 
 ## Before You Go
 
@@ -132,7 +132,7 @@ The island: reservations, buses, and what closes when.
   Korea's year-end K-pop shows fill their seats by free lottery, and in 2025 none of them was held in Seoul. What it takes to get in — and to get home.
 
 - **[Gocheok Sky Dome vs KSPO Dome: Seats, Stations, and Getting Out](https://hanokdays.com/posts/seoul-kpop-concert-venues/)**
-  Gocheok Sky Dome and KSPO Dome host most K-pop concerts in Seoul. The seat numbering, the station structure and the park closing times decide your night.
+  Gocheok Sky Dome vs KSPO Dome: seat count, station access and exit routes for Seoul's two K-pop venues, compared from Seoul's own transit and venue pages.
 
 - **[Gyeongbokgung Tickets in 2026: Free Days, Closures, and the Hanbok Rule](https://hanokdays.com/posts/gyeongbokgung-guide/)**
   Gyeongbokgung closes Tuesdays, is free only on the last Wednesday, and the hanbok exemption has a written dress code that rules out several rental outfits.
@@ -256,6 +256,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Booking the Ski Shuttle From Seoul — What Korea's Resorts Leave Out](https://hanokdays.com/posts/korea-ski-shuttle-booking/)**
   Korean ski resorts run separate shuttle booking sites for foreign visitors, with different fares and rules than the domestic ones. Here's how it actually works.
+
+- **[Gapyeong Tourist Bus Winter Schedule — The Last Bus Leaves Later Than Guides Say](https://hanokdays.com/posts/gapyeong-tourist-bus-winter/)**
+  The top-ranked English guide for Gapyeong's tourist bus lists a 5PM last bus. In winter, the actual last run leaves the Garden of Morning Calm at 8PM.
 
 ---
 
