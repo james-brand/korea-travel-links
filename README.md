@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-27 — 79 guides
+> Last updated: 2026-09-29 — 80 guides
 
 ## Before You Go
 
@@ -22,7 +22,7 @@ Visas, money, connectivity — the things to settle before you fly.
   Many nationalities are temporarily exempt from Korea's K-ETA through 31 December 2026 — and the arrival card it saves you can now be filed online for free. Verified August 2026.
 
 - **[eSIM vs SIM vs Pocket WiFi in Korea: What the Affiliate Guides Won't Tell You](https://hanokdays.com/posts/korea-esim-sim-wifi/)**
-  Most Korea eSIM guides are affiliate pages for one global brand. Here's the honest version.
+  Most Korea eSIM guides won't name the network they sell. Verified pricing, network data, and phone-number rules — checked against official Korean sources.
 
 - **[Korea VAT Refund in 2026: The Instant Route, and the Rule That Just Changed](https://hanokdays.com/posts/korea-vat-tax-refund/)**
   Korea's tourist VAT refund has an instant in-store option up to ₩1,000,000 per receipt — and the medical/cosmetic refund was scrapped on 1 January 2026.
@@ -59,7 +59,7 @@ Transit cards, trains and the apps that actually work in Korea.
   Google Maps has no driving directions in Korea because of a map data export restriction.
 
 - **[Booking KTX: Refund Windows and the Standing-Seat Trade-off](https://hanokdays.com/posts/ktx-booking-guide/)**
-  KTX refund fees differ between weekdays and weekends, standing tickets are 5% cheaper but cannot be exchanged, and the KR PASS youth band runs to 27.
+  KTX refund rules differ by weekday vs weekend, KR PASS moved to one select-pass tier in Dec 2025, and sold-out seats still let pass holders board standing.
 
 ## Food & Drink
 
@@ -259,6 +259,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Gapyeong Tourist Bus Winter Schedule — The Last Bus Leaves Later Than Guides Say](https://hanokdays.com/posts/gapyeong-tourist-bus-winter/)**
   The top-ranked English guide for Gapyeong's tourist bus lists a 5PM last bus. In winter, the actual last run leaves the Garden of Morning Calm at 8PM.
+
+- **[Luggage Delivery in Korea — Seoul, Busan, Gyeongju and Jeju Compared](https://hanokdays.com/posts/luggage-delivery-korea/)**
+  Same-day luggage delivery between Seoul, Busan, Gyeongju and Jeju — drop-off deadlines, prices, and where two pages give different cutoffs (Sept 2026).
 
 ---
 
