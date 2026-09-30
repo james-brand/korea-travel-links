@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-29 — 80 guides
+> Last updated: 2026-09-30 — 81 guides
 
 ## Before You Go
 
@@ -262,6 +262,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Luggage Delivery in Korea — Seoul, Busan, Gyeongju and Jeju Compared](https://hanokdays.com/posts/luggage-delivery-korea/)**
   Same-day luggage delivery between Seoul, Busan, Gyeongju and Jeju — drop-off deadlines, prices, and where two pages give different cutoffs (Sept 2026).
+
+- **[Everland Tickets and Q-Pass for Foreigners — What the English Guides Get Wrong](https://hanokdays.com/posts/everland-tickets-qpass-foreigners/)**
+  Everland's English ticket page has a broken price calendar, and the claim that foreigners can't buy Q-Pass is now false. What's true, as of September 2026.
 
 ---
 
