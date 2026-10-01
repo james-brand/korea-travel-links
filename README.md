@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-01 — 82 guides
+> Last updated: 2026-10-01 — 83 guides
 
 ## Before You Go
 
@@ -111,8 +111,8 @@ The island: reservations, buses, and what closes when.
 - **[Visiting Jeju Without a Car: Buses, Fares and the 40-Minute Transfer Rule](https://hanokdays.com/posts/jeju-without-a-car/)**
   Jeju without a car: bus route number bands, the 40-minute transfer window, the same-route exclusion, and the taxi fares — including the 23:00 night surcharge.
 
-- **[Jeju Olle Trail: Reading the Signs and Choosing a Course](https://hanokdays.com/posts/jeju-olle-trail-guide/)**
-  The Jeju Olle Trail is waymarked by a blue-and-orange system most guides don't explain — the ganse pony, arrow colours, and ribbons.
+- **[Jeju Olle Trail Guide — Which Course to Walk and What to Expect](https://hanokdays.com/posts/jeju-olle-trail-guide/)**
+  The Jeju Olle Trail covers 437km across 27 free coastal routes. Here's which course to walk first, how to get there, and what to bring.
 
 - **[Jeju Haenyeo: Where to Actually See the Women Divers](https://hanokdays.com/posts/jeju-haenyeo-guide/)**
   Jeju's haenyeo women divers are easy to read about and hard to actually see.
@@ -268,6 +268,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Busan Fireworks Festival 2026: Tickets, Hotels, and Getting Out of Gwangalli](https://hanokdays.com/posts/busan-fireworks-festival-guide/)**
   Busan's fireworks festival sells tickets through five Korean channels but only three in English — plus the room squeeze and subway crowding guides miss.
+
+- **[Can You Bring a Rental Car to Udo Island? Korea's Rules Changed Twice in 2026](https://hanokdays.com/posts/udo-island-vehicle-rules/)**
+  Udo's rental car ban now has an electric-vehicle exception, but the island scooters many guides recommend renting were banned for safety in March 2026.
 
 ---
 
