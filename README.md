@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-09-30 — 81 guides
+> Last updated: 2026-10-01 — 82 guides
 
 ## Before You Go
 
@@ -265,6 +265,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Everland Tickets and Q-Pass for Foreigners — What the English Guides Get Wrong](https://hanokdays.com/posts/everland-tickets-qpass-foreigners/)**
   Everland's English ticket page has a broken price calendar, and the claim that foreigners can't buy Q-Pass is now false. What's true, as of September 2026.
+
+- **[Busan Fireworks Festival 2026: Tickets, Hotels, and Getting Out of Gwangalli](https://hanokdays.com/posts/busan-fireworks-festival-guide/)**
+  Busan's fireworks festival sells tickets through five Korean channels but only three in English — plus the room squeeze and subway crowding guides miss.
 
 ---
 
