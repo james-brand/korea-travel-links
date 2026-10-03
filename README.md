@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-03 — 84 guides
+> Last updated: 2026-10-03 — 85 guides
 
 ## Before You Go
 
@@ -274,6 +274,9 @@ The island: reservations, buses, and what closes when.
 
 - **[FC Seoul Tickets for Foreigners: How to Buy for October 2026 Home Games](https://hanokdays.com/posts/fc-seoul-tickets-foreigners/)**
   FC Seoul has three home games left in the 2026 regular season. Compare Klook, the club's site and the box office, and why November dates aren't out yet.
+
+- **[Busan Sky Capsule Price 2026: ₩50,000, Not ₩40,000 — and How to Book](https://hanokdays.com/posts/busan-sky-capsule-booking/)**
+  Busan Sky Capsule fares rose on 1 May 2026 to ₩50,000–60,000. The ₩40,000 in most guides is now a resident price, and two official pages still show it.
 
 ---
 
