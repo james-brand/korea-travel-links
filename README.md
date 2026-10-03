@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-01 — 83 guides
+> Last updated: 2026-10-03 — 84 guides
 
 ## Before You Go
 
@@ -271,6 +271,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Can You Bring a Rental Car to Udo Island? Korea's Rules Changed Twice in 2026](https://hanokdays.com/posts/udo-island-vehicle-rules/)**
   Udo's rental car ban now has an electric-vehicle exception, but the island scooters many guides recommend renting were banned for safety in March 2026.
+
+- **[FC Seoul Tickets for Foreigners: How to Buy for October 2026 Home Games](https://hanokdays.com/posts/fc-seoul-tickets-foreigners/)**
+  FC Seoul has three home games left in the 2026 regular season. Compare Klook, the club's site and the box office, and why November dates aren't out yet.
 
 ---
 
