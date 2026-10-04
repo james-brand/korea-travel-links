@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-03 — 85 guides
+> Last updated: 2026-10-04 — 86 guides
 
 ## Before You Go
 
@@ -277,6 +277,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Busan Sky Capsule Price 2026: ₩50,000, Not ₩40,000 — and How to Book](https://hanokdays.com/posts/busan-sky-capsule-booking/)**
   Busan Sky Capsule fares rose on 1 May 2026 to ₩50,000–60,000. The ₩40,000 in most guides is now a resident price, and two official pages still show it.
+
+- **[Lotte World Busan Tickets: ₩49,000, After3 at 3 PM, and What Foreigners Can Buy](https://hanokdays.com/posts/lotte-world-busan-tickets/)**
+  Lotte World Adventure Busan costs ₩49,000; its afternoon ticket is After3, from 3 PM. Prices, Magic Pass rules and foreigner routes, as of October 2026.
 
 ---
 
