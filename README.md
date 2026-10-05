@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-04 — 86 guides
+> Last updated: 2026-10-05 — 87 guides
 
 ## Before You Go
 
@@ -280,6 +280,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Lotte World Busan Tickets: ₩49,000, After3 at 3 PM, and What Foreigners Can Buy](https://hanokdays.com/posts/lotte-world-busan-tickets/)**
   Lotte World Adventure Busan costs ₩49,000; its afternoon ticket is After3, from 3 PM. Prices, Magic Pass rules and foreigner routes, as of October 2026.
+
+- **[Korean Folk Village Tickets for Foreigners: Rate, Discounts, and Getting There](https://hanokdays.com/posts/korean-folk-village-tickets-foreigners/)**
+  Korean Folk Village lists a foreigner rate and cheaper official tickets in Korean only. Prices, afternoon tiers, night hours and buses, as of October 2026.
 
 ---
 
