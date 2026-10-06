@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-05 — 87 guides
+> Last updated: 2026-10-06 — 88 guides
 
 ## Before You Go
 
@@ -283,6 +283,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Korean Folk Village Tickets for Foreigners: Rate, Discounts, and Getting There](https://hanokdays.com/posts/korean-folk-village-tickets-foreigners/)**
   Korean Folk Village lists a foreigner rate and cheaper official tickets in Korean only. Prices, afternoon tiers, night hours and buses, as of October 2026.
+
+- **[Aqua Planet Ilsan Tickets for Foreigners: What the English Pages Get Wrong](https://hanokdays.com/posts/aqua-planet-ilsan-tickets/)**
+  Aqua Planet Ilsan tickets: the Korean official gate price, why English pages quote older figures, what is closed until 30 November, and how to get there.
 
 ---
 
