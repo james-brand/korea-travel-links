@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-06 — 88 guides
+> Last updated: 2026-10-08 — 89 guides
 
 ## Before You Go
 
@@ -286,6 +286,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Aqua Planet Ilsan Tickets for Foreigners: What the English Pages Get Wrong](https://hanokdays.com/posts/aqua-planet-ilsan-tickets/)**
   Aqua Planet Ilsan tickets: the Korean official gate price, why English pages quote older figures, what is closed until 30 November, and how to get there.
+
+- **[Seoul Sky Tickets and Sky Bridge Winter Closure: Lotte World Tower Guide](https://hanokdays.com/posts/seoul-sky-sky-bridge-tickets/)**
+  Seoul Sky tickets and Sky Bridge booking at Lotte World Tower, plus the winter closure dates the official English ticket page still gets wrong.
 
 ---
 
