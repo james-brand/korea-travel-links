@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-08 — 89 guides
+> Last updated: 2026-10-12 — 90 guides
 
 ## Before You Go
 
@@ -122,7 +122,7 @@ The island: reservations, buses, and what closes when.
 - **[K-pop Company Buildings in Seoul: What You Can Actually Enter](https://hanokdays.com/posts/kpop-buildings-seoul/)**
   HYBE Insight closed in 2023 and SMTOWN at COEX in 2020. What is left is KWANGYA@SEOUL in Seongsu — free, 10:30 to 20:00 — plus exterior-only JYP and YG.
 
-- **[How to Attend a K-pop Music Show in Korea: The Routes That Still Work](https://hanokdays.com/posts/kpop-music-show-attend/)**
+- **[How to Attend Music Bank and K-pop Shows: The Routes That Still Work](https://hanokdays.com/posts/kpop-music-show-attend/)**
   Seven K-pop music shows air weekly near Seoul. Only two take applications from visitors — and the roll call, not the broadcast time, is the real deadline.
 
 - **[Noraebang in Korea: How Coin and Standard Karaoke Rooms Actually Work](https://hanokdays.com/posts/noraebang-korea-guide/)**
@@ -289,6 +289,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoul Sky Tickets and Sky Bridge Winter Closure: Lotte World Tower Guide](https://hanokdays.com/posts/seoul-sky-sky-bridge-tickets/)**
   Seoul Sky tickets and Sky Bridge booking at Lotte World Tower, plus the winter closure dates the official English ticket page still gets wrong.
+
+- **[Aqua Planet Jeju Tickets for Foreigners: Age Rules, Shows and What's Included](https://hanokdays.com/posts/aqua-planet-jeju-tickets/)**
+  Aqua Planet Jeju tickets for foreigners: how the Korean and English age rules differ, the Ocean Arena times, the haenyeo mix-up and the special exhibition.
 
 ---
 
