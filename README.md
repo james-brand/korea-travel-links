@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-12 — 90 guides
+> Last updated: 2026-10-13 — 91 guides
 
 ## Before You Go
 
@@ -292,6 +292,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Aqua Planet Jeju Tickets for Foreigners: Age Rules, Shows and What's Included](https://hanokdays.com/posts/aqua-planet-jeju-tickets/)**
   Aqua Planet Jeju tickets for foreigners: how the Korean and English age rules differ, the Ocean Arena times, the haenyeo mix-up and the special exhibition.
+
+- **[Incheon Airport Terminal 1 or 2? Which One Your Flight Uses, Codeshares Included](https://hanokdays.com/posts/incheon-airport-terminal-guide/)**
+  Incheon Airport Terminal 1 or 2: which airlines use each since Asiana moved to T2, why codeshares can use the other terminal, and Seoul Station check-in.
 
 ---
 
