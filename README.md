@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-13 — 91 guides
+> Last updated: 2026-10-14 — 91 guides
 
 ## Before You Go
 
@@ -179,8 +179,8 @@ The island: reservations, buses, and what closes when.
 - **[KBO Stadium Rules: Bags, Alcohol, and Food Explained by Stadium](https://hanokdays.com/posts/kbo-stadium-rules-food/)**
   KBO bag, alcohol and outside food rules are set club by club, not league-wide — 6% ABV at Gocheok, 8% at KT Wiz, smaller bags in Gwangju. What's confirmed.
 
-- **[KBO Postseason Tickets 2026 — Schedule Delays and NOL-Only Sales](https://hanokdays.com/posts/kbo-postseason-guide/)**
-  No 2026 KBO postseason dates yet — a heat wave break pushed the season back, and tickets sell only through NOL Ticket, not the apps most guides recommend.
+- **[KBO Postseason Tickets for Foreigners — NOL and the Box-Office Route](https://hanokdays.com/posts/kbo-postseason-guide/)**
+  KBO postseason tickets sell only on NOL Ticket, but foreigners with a passport can buy one at the stadium box office on game day, per the wild card notice.
 
 - **[Lotte Giants at Sajik Stadium: A Busan Baseball Guide](https://hanokdays.com/posts/sajik-stadium-lotte-giants/)**
   Lotte Giants tickets aren't on Ticketlink or Interpark, and online booking is members-only. How to get into Sajik Stadium without a Korean account.
