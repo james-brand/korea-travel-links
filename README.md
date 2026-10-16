@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-14 — 91 guides
+> Last updated: 2026-10-16 — 92 guides
 
 ## Before You Go
 
@@ -295,6 +295,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Incheon Airport Terminal 1 or 2? Which One Your Flight Uses, Codeshares Included](https://hanokdays.com/posts/incheon-airport-terminal-guide/)**
   Incheon Airport Terminal 1 or 2: which airlines use each since Asiana moved to T2, why codeshares can use the other terminal, and Seoul Station check-in.
+
+- **[Nami Island Day Trip from Seoul: Tour or On Your Own?](https://hanokdays.com/posts/nami-island-day-trip/)**
+  Nami Island from Seoul by tour or on your own: current entry fee, the official direct shuttle most English guides skip, and a cost table. Checked October 2026.
 
 ---
 
