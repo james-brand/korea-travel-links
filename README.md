@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-16 — 92 guides
+> Last updated: 2026-10-17 — 92 guides
 
 ## Before You Go
 
@@ -143,8 +143,8 @@ The island: reservations, buses, and what closes when.
 - **[Jjimjilbang Rules in Korea: The Two Clocks, the Curfew, and Who Gets Turned Away](https://hanokdays.com/posts/jjimjilbang-guide/)**
   Korean bath houses run on two different clocks, minors face a statutory night curfew with a written-consent exception, and one venue English guides still rank first no longer exists.
 
-- **[DMZ Tours in 2026: What's Open, What Isn't, and What You Can Book Yourself](https://hanokdays.com/posts/dmz-tour-guide/)**
-  Panmunjom is closed to foreign passports in 2026, but the Third Tunnel and Dora Observatory are not — and you do not need a tour company for them.
+- **[DMZ Tour from Seoul: Tour or On Your Own? What You Can Actually Reach](https://hanokdays.com/posts/dmz-tour-guide/)**
+  DMZ from Seoul, tour or on your own: what you can reach without a tour, the 14:30 ticket cutoff, and why big bus tours walk the tunnel. Checked Oct 2026.
 
 - **[National Museum of Korea: Free Entry, New 2026 Hours, and What to See First](https://hanokdays.com/posts/national-museum-korea/)**
   The permanent galleries are still free, but the museum moved its hours in March 2026 and English travel sites still list the old ones. What's current.
