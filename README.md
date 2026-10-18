@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-17 — 92 guides
+> Last updated: 2026-10-18 — 93 guides
 
 ## Before You Go
 
@@ -216,7 +216,7 @@ The island: reservations, buses, and what closes when.
   Korea's convenience store medicine list has 13 legal items, but only 11 are in stock, plus how to find an open pharmacy at night or on Sunday.
 
 - **[How to Visit Jongmyo Shrine: Entry Rules by Day and Language](https://hanokdays.com/posts/jongmyo-shrine-visit-rules/)**
-  Jongmyo Shrine's entry rules split by weekday — guided-only Mon/Wed/Thu/Fri, free walk-through weekends. What Korea's official pages actually say, 2026.
+  Jongmyo Shrine's entry rules split by weekday — guided-only Mon/Thu/Fri, free walk-through weekends and Wednesdays. What Korea's official pages actually say, 2026.
 
 - **[How to Get to N Seoul Tower — Cable Car, Bus, Free Shuttle, or Walk](https://hanokdays.com/posts/namsan-cable-car-vs-hike/)**
   The cable car fare and N Seoul Tower's admission are billed separately — what each route up Namsan costs, and the free shuttle gap evening visitors miss.
@@ -298,6 +298,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Nami Island Day Trip from Seoul: Tour or On Your Own?](https://hanokdays.com/posts/nami-island-day-trip/)**
   Nami Island from Seoul by tour or on your own: current entry fee, the official direct shuttle most English guides skip, and a cost table. Checked October 2026.
+
+- **[Seoul Palace Day Itinerary: Which Palaces, in What Order, on Which Day](https://hanokdays.com/posts/seoul-palace-day-itinerary/)**
+  Which Seoul palaces fit in one day depends on the weekday: four day-by-day plans, the Monday/Tuesday closure clash and Secret Garden timing (Oct 2026).
 
 ---
 
