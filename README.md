@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-18 — 93 guides
+> Last updated: 2026-10-19 — 94 guides
 
 ## Before You Go
 
@@ -301,6 +301,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoul Palace Day Itinerary: Which Palaces, in What Order, on Which Day](https://hanokdays.com/posts/seoul-palace-day-itinerary/)**
   Which Seoul palaces fit in one day depends on the weekday: four day-by-day plans, the Monday/Tuesday closure clash and Secret Garden timing (Oct 2026).
+
+- **[Namdaemun Market Guide: Real Hours, Sunday Closures, and the New Car-Free Rule](https://hanokdays.com/posts/namdaemun-market-guide/)**
+  Namdaemun Market hours differ by building, Sunday is per shop, there is no current night market, and cars are banned 12:00-18:00 from Oct 24, 2026.
 
 ---
 
