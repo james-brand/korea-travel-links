@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-19 — 94 guides
+> Last updated: 2026-10-21 — 95 guides
 
 ## Before You Go
 
@@ -99,8 +99,8 @@ The island: reservations, buses, and what closes when.
 - **[Jeju Itinerary: 3-Day and 5-Day Plans That Actually Work Without a Car](https://hanokdays.com/posts/jeju-itinerary-3-and-5-days/)**
   Most Jeju itineraries assume a rental car and ignore the island's monthly closure days.
 
-- **[How to Visit Seongsan Ilchulbong: Sunrise Timing and the Monday Closure](https://hanokdays.com/posts/seongsan-ilchulbong-guide/)**
-  Seongsan Ilchulbong's opening hours and ticket cut-offs shift by season, sunrise moves nearly two hours across the year, and it closes the first Monday of every month.
+- **[Seongsan Ilchulbong Opening Hours: Seasonal Gates, Monday Closure](https://hanokdays.com/posts/seongsan-ilchulbong-guide/)**
+  Seongsan Ilchulbong opening hours: gate opens 04:30 summer, 05:00 spring/autumn, 06:00 winter, last ticket an hour before close; closed 1st Monday.
 
 - **[How to Hike Hallasan: The Reservation System Nobody Explains](https://hanokdays.com/posts/hallasan-hiking-guide/)**
   Hallasan's summit needs a free booking that opens at 09:00 on the first business day of the month — but since May 2025 the lower trails need none.
@@ -134,8 +134,8 @@ The island: reservations, buses, and what closes when.
 - **[Gocheok Sky Dome vs KSPO Dome: Seats, Stations, and Getting Out](https://hanokdays.com/posts/seoul-kpop-concert-venues/)**
   Gocheok Sky Dome vs KSPO Dome: seat count, station access and exit routes for Seoul's two K-pop venues, compared from Seoul's own transit and venue pages.
 
-- **[Gyeongbokgung Tickets in 2026: Free Days, Closures, and the Hanbok Rule](https://hanokdays.com/posts/gyeongbokgung-guide/)**
-  Gyeongbokgung closes Tuesdays, is free only on the last Wednesday, and the hanbok exemption has a written dress code that rules out several rental outfits.
+- **[Gyeongbokgung Tickets: Free Days, Tuesday Closure, Hanbok Rule](https://hanokdays.com/posts/gyeongbokgung-guide/)**
+  Gyeongbokgung costs 3,000 won, closes Tuesdays and is free only on the last Wednesday. Free hanbok entry has a written dress code that rejects some rentals.
 
 - **[Changdeokgung Secret Garden: The Booking Rules English Guides Missed](https://hanokdays.com/posts/changdeokgung-secret-garden/)**
   Booking Changdeokgung's Secret Garden in 2026: the palace pass no longer covers it, guided tours are now optional, and English sessions sell out first.
@@ -188,8 +188,8 @@ The island: reservations, buses, and what closes when.
 - **[Korea Dropped Its Duty-Free Bottle Limit. Google Still Says 2](https://hanokdays.com/posts/korea-customs-allowance/)**
   Korea scrapped the two-bottle cap on duty-free alcohol in March 2025 — only 2 litres and $400 apply now. Verified on the Korean customs page, August 2026.
 
-- **[Bringing Medication to Korea? The Rule Has 3 Tiers, Not 2](https://hanokdays.com/posts/bringing-medication-to-korea/)**
-  Korea's medication rules have three tiers, not two — and the six-bottle rule doesn't apply to the middle one. Verified against Korean law, August 2026.
+- **[Bringing Medication to Korea: 6-Bottle Limit and 3 Tiers](https://hanokdays.com/posts/bringing-medication-to-korea/)**
+  Bringing medication to Korea: ordinary drugs get 6 bottles or a 3-month supply, abuse-prone drugs follow a Korean prescription, narcotics need pre-approval.
 
 - **[Korea Customs Food Rules — Why Enforcement Got Stricter in 2026](https://hanokdays.com/posts/korea-customs-food-rules/)**
   Korea's food quarantine rules didn't change in 2026, but enforcement did — two nationwide crackdowns and a ₩5 million fine. Here's what the law caps at.
@@ -221,8 +221,8 @@ The island: reservations, buses, and what closes when.
 - **[How to Get to N Seoul Tower — Cable Car, Bus, Free Shuttle, or Walk](https://hanokdays.com/posts/namsan-cable-car-vs-hike/)**
   The cable car fare and N Seoul Tower's admission are billed separately — what each route up Namsan costs, and the free shuttle gap evening visitors miss.
 
-- **[How to Use Kakao Taxi in Korea: A Foreigner's Step-by-Step Guide](https://hanokdays.com/posts/kakao-taxi-guide/)**
-  A start-to-finish guide to calling Kakao Taxi in Korea as a foreigner — installing the app, payment workarounds, and the k.ride app most guides miss.
+- **[Kakao Taxi in Korea: Card Rejected? Pay Driver or Use k.ride](https://hanokdays.com/posts/kakao-taxi-guide/)**
+  Kakao Taxi for foreigners: if Kakao T rejects your card, choose 'pay the driver' at booking, or use k.ride, Kakao's English app with foreign card payment.
 
 - **[Seeing a KBO Game in Seoul — Which Team's Tickets You Can Actually Get](https://hanokdays.com/posts/kbo-game-in-seoul/)**
   LG and Doosan sell out fast at Jamsil. KBO attendance data shows Kiwoom's Gocheok tickets are easier to get, plus when each club's sales window opens.
@@ -304,6 +304,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Namdaemun Market Guide: Real Hours, Sunday Closures, and the New Car-Free Rule](https://hanokdays.com/posts/namdaemun-market-guide/)**
   Namdaemun Market hours differ by building, Sunday is per shop, there is no current night market, and cars are banned 12:00-18:00 from Oct 24, 2026.
+
+- **[Suwon Hwaseong: Night Opening, Monday Closures, Trolley Tickets](https://hanokdays.com/posts/suwon-hwaseong-fortress-guide/)**
+  Hwaseong Haenggung's night opening ends 1 Nov 2026, the trolley closes Mondays and needs a paper ticket from Yeonmudae. Fees and hours, checked Oct 2026.
 
 ---
 
