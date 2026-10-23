@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-21 — 95 guides
+> Last updated: 2026-10-23 — 96 guides
 
 ## Before You Go
 
@@ -307,6 +307,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Suwon Hwaseong: Night Opening, Monday Closures, Trolley Tickets](https://hanokdays.com/posts/suwon-hwaseong-fortress-guide/)**
   Hwaseong Haenggung's night opening ends 1 Nov 2026, the trolley closes Mondays and needs a paper ticket from Yeonmudae. Fees and hours, checked Oct 2026.
+
+- **[Pyeongchang Trout Festival: What to Book Online, Hours, Dates](https://hanokdays.com/posts/pyeongchang-trout-festival-guide/)**
+  Pyeongchang Trout Festival, 2026 edition: only tent fishing books online, ticket sales close at 16:00, and 2026 opened 8 days late. 2027 dates not out yet.
 
 ---
 
