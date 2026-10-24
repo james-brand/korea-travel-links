@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-23 — 96 guides
+> Last updated: 2026-10-24 — 97 guides
 
 ## Before You Go
 
@@ -310,6 +310,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Pyeongchang Trout Festival: What to Book Online, Hours, Dates](https://hanokdays.com/posts/pyeongchang-trout-festival-guide/)**
   Pyeongchang Trout Festival, 2026 edition: only tent fishing books online, ticket sales close at 16:00, and 2026 opened 8 days late. 2027 dates not out yet.
+
+- **[New Year Sunrise in Korea: Tour vs KTX to Jeongdongjin](https://hanokdays.com/posts/korea-new-year-sunrise-guide/)**
+  New Year sunrise in Korea: no KTX reaches Jeongdongjin before sunrise, the 01:00 Seoul tour misses the midnight show, and Korail seats open 2 months ahead.
 
 ---
 
