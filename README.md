@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-24 — 97 guides
+> Last updated: 2026-10-30 — 98 guides
 
 ## Before You Go
 
@@ -143,8 +143,8 @@ The island: reservations, buses, and what closes when.
 - **[Jjimjilbang Rules in Korea: The Two Clocks, the Curfew, and Who Gets Turned Away](https://hanokdays.com/posts/jjimjilbang-guide/)**
   Korean bath houses run on two different clocks, minors face a statutory night curfew with a written-consent exception, and one venue English guides still rank first no longer exists.
 
-- **[DMZ Tour from Seoul: Tour or On Your Own? What You Can Actually Reach](https://hanokdays.com/posts/dmz-tour-guide/)**
-  DMZ from Seoul, tour or on your own: what you can reach without a tour, the 14:30 ticket cutoff, and why big bus tours walk the tunnel. Checked Oct 2026.
+- **[DMZ Tour from Seoul or On Your Own: What Your Date Decides](https://hanokdays.com/posts/dmz-tour-guide/)**
+  Can you go to the DMZ without a tour? Yes, on Paju's shuttle. What your date decides: Mondays, the Nov 23-30 Dora works, lift slots, the 14:30 cutoff.
 
 - **[National Museum of Korea: Free Entry, New 2026 Hours, and What to See First](https://hanokdays.com/posts/national-museum-korea/)**
   The permanent galleries are still free, but the museum moved its hours in March 2026 and English travel sites still list the old ones. What's current.
@@ -272,8 +272,8 @@ The island: reservations, buses, and what closes when.
 - **[Can You Bring a Rental Car to Udo Island? Korea's Rules Changed Twice in 2026](https://hanokdays.com/posts/udo-island-vehicle-rules/)**
   Udo's rental car ban now has an electric-vehicle exception, but the island scooters many guides recommend renting were banned for safety in March 2026.
 
-- **[FC Seoul Tickets for Foreigners: How to Buy for October 2026 Home Games](https://hanokdays.com/posts/fc-seoul-tickets-foreigners/)**
-  FC Seoul has three home games left in the 2026 regular season. Compare Klook, the club's site and the box office, and why November dates aren't out yet.
+- **[FC Seoul Tickets for Foreigners: Klook, Club Site or Gate](https://hanokdays.com/posts/fc-seoul-tickets-foreigners/)**
+  FC Seoul's final-round home games are out: Nov 1, Nov 8 and Nov 28 at Seoul World Cup Stadium. Compare Klook, the club's site and the box office.
 
 - **[Busan Sky Capsule Price 2026: ₩50,000, Not ₩40,000 — and How to Book](https://hanokdays.com/posts/busan-sky-capsule-booking/)**
   Busan Sky Capsule fares rose on 1 May 2026 to ₩50,000–60,000. The ₩40,000 in most guides is now a resident price, and two official pages still show it.
@@ -287,8 +287,8 @@ The island: reservations, buses, and what closes when.
 - **[Aqua Planet Ilsan Tickets for Foreigners: What the English Pages Get Wrong](https://hanokdays.com/posts/aqua-planet-ilsan-tickets/)**
   Aqua Planet Ilsan tickets: the Korean official gate price, why English pages quote older figures, what is closed until 30 November, and how to get there.
 
-- **[Seoul Sky Tickets and Sky Bridge Winter Closure: Lotte World Tower Guide](https://hanokdays.com/posts/seoul-sky-sky-bridge-tickets/)**
-  Seoul Sky tickets and Sky Bridge booking at Lotte World Tower, plus the winter closure dates the official English ticket page still gets wrong.
+- **[Seoul Sky Tickets: How to Book on the Official Site or Klook](https://hanokdays.com/posts/seoul-sky-sky-bridge-tickets/)**
+  Seoul Sky tickets four ways: official site, Klook voucher, Aquarium package, Fast Pass. What each one's terms say. Sky Bridge closed Nov 30-Feb 28.
 
 - **[Aqua Planet Jeju Tickets for Foreigners: Age Rules, Shows and What's Included](https://hanokdays.com/posts/aqua-planet-jeju-tickets/)**
   Aqua Planet Jeju tickets for foreigners: how the Korean and English age rules differ, the Ocean Arena times, the haenyeo mix-up and the special exhibition.
@@ -313,6 +313,9 @@ The island: reservations, buses, and what closes when.
 
 - **[New Year Sunrise in Korea: Tour vs KTX to Jeongdongjin](https://hanokdays.com/posts/korea-new-year-sunrise-guide/)**
   New Year sunrise in Korea: no KTX reaches Jeongdongjin before sunrise, the 01:00 Seoul tour misses the midnight show, and Korail seats open 2 months ahead.
+
+- **[Hwacheon Ice Festival Tickets: Book Online, Walk In, or Tour?](https://hanokdays.com/posts/hwacheon-ice-festival-guide/)**
+  Hwacheon Ice Festival runs 9–31 Jan 2027. Which ice fishing route fits your date: online, walk-in, foreigner zone or tour. Fees are 2026 figures.
 
 ---
 
