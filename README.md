@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-30 — 98 guides
+> Last updated: 2026-10-31 — 99 guides
 
 ## Before You Go
 
@@ -122,8 +122,8 @@ The island: reservations, buses, and what closes when.
 - **[K-pop Company Buildings in Seoul: What You Can Actually Enter](https://hanokdays.com/posts/kpop-buildings-seoul/)**
   HYBE Insight closed in 2023 and SMTOWN at COEX in 2020. What is left is KWANGYA@SEOUL in Seongsu — free, 10:30 to 20:00 — plus exterior-only JYP and YG.
 
-- **[How to Attend Music Bank and K-pop Shows: The Routes That Still Work](https://hanokdays.com/posts/kpop-music-show-attend/)**
-  Seven K-pop music shows air weekly near Seoul. Only two take applications from visitors — and the roll call, not the broadcast time, is the real deadline.
+- **[Music Bank & Inkigayo for Visitors: KBS Form, SBS App, Tour](https://hanokdays.com/posts/kpop-music-show-attend/)**
+  Only KBS (Music Bank) and the SBS app (Inkigayo) take visitor applications; the roll call, not air time, is the deadline. Times from the 2026 notices.
 
 - **[Noraebang in Korea: How Coin and Standard Karaoke Rooms Actually Work](https://hanokdays.com/posts/noraebang-korea-guide/)**
   Coin noraebang, standard rooms, and what the licence actually permits — including the minors' curfew exception that English guides say does not exist.
@@ -170,20 +170,20 @@ The island: reservations, buses, and what closes when.
 - **[Jamsil Baseball Stadium Closes in 2026 — Where KBO Games Go Next](https://hanokdays.com/posts/jamsil-stadium-last-season/)**
   Jamsil Baseball Stadium's last season ends October 7 — plus the interim stadium's cut seat count and the access changes English KBO guides still miss.
 
-- **[KBO Tickets for Foreigners: Why 'Global' Sites Don't Sell Them](https://hanokdays.com/posts/kbo-tickets-foreigners/)**
-  Ticketlink Global and Interpark Global don't sell KBO tickets, checked directly in August 2026. Here's why online booking fails and what actually works.
+- **[KBO Tickets for Foreigners: Wizzap, Box Office, Tour Package](https://hanokdays.com/posts/kbo-tickets-foreigners/)**
+  No single site sells KBO tickets to foreigners. Three routes work without a Korean phone: KT Wiz's Wizzap app, box offices, GetYourGuide packages. KBO map.
 
 - **[Which KBO Stadium Should You Go To — 10 Teams, 8 Cities](https://hanokdays.com/posts/kbo-stadiums-guide/)**
   KBO ticket booking splits three ways by team, and most English guides get it wrong. A city-by-city comparison of all 10 teams, checked on KBO's own site.
 
-- **[KBO Stadium Rules: Bags, Alcohol, and Food Explained by Stadium](https://hanokdays.com/posts/kbo-stadium-rules-food/)**
-  KBO bag, alcohol and outside food rules are set club by club, not league-wide — 6% ABV at Gocheok, 8% at KT Wiz, smaller bags in Gwangju. What's confirmed.
+- **[KBO Stadium Rules: Bag Size (Jamsil Standard), Alcohol, Food](https://hanokdays.com/posts/kbo-stadium-rules-food/)**
+  KBO bag, alcohol and food rules are set club by club. Jamsil follows the league's 45×45×20cm bag standard; KIA's Champions Field is smaller. Official FAQs.
 
 - **[KBO Postseason Tickets for Foreigners — NOL and the Box-Office Route](https://hanokdays.com/posts/kbo-postseason-guide/)**
   KBO postseason tickets sell only on NOL Ticket, but foreigners with a passport can buy one at the stadium box office on game day, per the wild card notice.
 
-- **[Lotte Giants at Sajik Stadium: A Busan Baseball Guide](https://hanokdays.com/posts/sajik-stadium-lotte-giants/)**
-  Lotte Giants tickets aren't on Ticketlink or Interpark, and online booking is members-only. How to get into Sajik Stadium without a Korean account.
+- **[Lotte Giants Tickets: Members-Only Online, Walk-Up at Sajik](https://hanokdays.com/posts/sajik-stadium-lotte-giants/)**
+  Lotte Giants booking is members-only on a Korean-only club site, checked Aug 2026. Walk-up sales at Sajik open 2–3 hours before first pitch, no sign-up.
 
 - **[Korea Dropped Its Duty-Free Bottle Limit. Google Still Says 2](https://hanokdays.com/posts/korea-customs-allowance/)**
   Korea scrapped the two-bottle cap on duty-free alcohol in March 2025 — only 2 litres and $400 apply now. Verified on the Korean customs page, August 2026.
@@ -245,8 +245,8 @@ The island: reservations, buses, and what closes when.
 - **[Seoul Subway Accessibility: Platform Gaps, Ramps, and the Right Door](https://hanokdays.com/posts/seoul-subway-accessibility/)**
   Seoul Metro flags 152 stations with a platform gap over 10 cm and publishes the narrowest boarding spot at each. What its Korean pages say, in English.
 
-- **[Lotte World Magic Pass: Prices, Booking Windows, and Ride Limits for Every Tier](https://hanokdays.com/posts/lotte-world-magic-pass-foreigners/)**
-  Lotte World Magic Pass prices for all four tiers, when booking actually opens, and the purchase and refund rules most English coverage leaves out (2026).
+- **[Lotte World Magic Pass Price: 4 Tiers, Same-Day Sale 8:30 AM](https://hanokdays.com/posts/lotte-world-magic-pass-foreigners/)**
+  Lotte World Magic Pass has four tiers and only Premium books in advance; the rest sell same-day at 8:30 AM in the app. Prices and limits, official page.
 
 - **[Hwadamsup Autumn Tickets 2026: Buying in English, and Getting There](https://hanokdays.com/posts/hwadamsup-autumn-tickets-foreigners/)**
   Hwadamsup autumn tickets sell in English on NOL's international site — eight fare tiers, no monorail. And every Seoul shuttle runs Tuesday to Friday.
@@ -254,8 +254,8 @@ The island: reservations, buses, and what closes when.
 - **[Seoraksan Cable Car Tickets: No Advance Booking, and What Time to Arrive](https://hanokdays.com/posts/seoraksan-cable-car-autumn/)**
   Seoraksan's Gwongeumseong cable car takes no advance booking at all — the 2026 fares, what the timed ticket really means, and when to arrive in autumn.
 
-- **[Booking the Ski Shuttle From Seoul — What Korea's Resorts Leave Out](https://hanokdays.com/posts/korea-ski-shuttle-booking/)**
-  Korean ski resorts run separate shuttle booking sites for foreign visitors, with different fares and rules than the domestic ones. Here's how it actually works.
+- **[Korea Ski Shuttle From Seoul: Vivaldi, Yongpyong, Konjiam](https://hanokdays.com/posts/korea-ski-shuttle-booking/)**
+  Vivaldi Park runs a separate foreigner shuttle site with a service fee; Yongpyong's Seoul shuttle dates are out. Booking and refund rules from the terms.
 
 - **[Gapyeong Tourist Bus Winter Schedule — The Last Bus Leaves Later Than Guides Say](https://hanokdays.com/posts/gapyeong-tourist-bus-winter/)**
   The top-ranked English guide for Gapyeong's tourist bus lists a 5PM last bus. In winter, the actual last run leaves the Garden of Morning Calm at 8PM.
@@ -263,8 +263,8 @@ The island: reservations, buses, and what closes when.
 - **[Luggage Delivery in Korea — Seoul, Busan, Gyeongju and Jeju Compared](https://hanokdays.com/posts/luggage-delivery-korea/)**
   Same-day luggage delivery between Seoul, Busan, Gyeongju and Jeju — drop-off deadlines, prices, and where two pages give different cutoffs (Sept 2026).
 
-- **[Everland Tickets and Q-Pass for Foreigners — What the English Guides Get Wrong](https://hanokdays.com/posts/everland-tickets-qpass-foreigners/)**
-  Everland's English ticket page has a broken price calendar, and the claim that foreigners can't buy Q-Pass is now false. What's true, as of September 2026.
+- **[Everland Q-Pass and Tickets for Foreigners: Klook Sells Both](https://hanokdays.com/posts/everland-tickets-qpass-foreigners/)**
+  Foreigners can buy an Everland Q-Pass: Klook sells A and B Groups in English. Everland's own ABCD Calendar link returns an error. Both checked Sept 2026.
 
 - **[Busan Fireworks Festival 2026: Tickets, Hotels, and Getting Out of Gwangalli](https://hanokdays.com/posts/busan-fireworks-festival-guide/)**
   Busan's fireworks festival sells tickets through five Korean channels but only three in English — plus the room squeeze and subway crowding guides miss.
@@ -275,11 +275,11 @@ The island: reservations, buses, and what closes when.
 - **[FC Seoul Tickets for Foreigners: Klook, Club Site or Gate](https://hanokdays.com/posts/fc-seoul-tickets-foreigners/)**
   FC Seoul's final-round home games are out: Nov 1, Nov 8 and Nov 28 at Seoul World Cup Stadium. Compare Klook, the club's site and the box office.
 
-- **[Busan Sky Capsule Price 2026: ₩50,000, Not ₩40,000 — and How to Book](https://hanokdays.com/posts/busan-sky-capsule-booking/)**
-  Busan Sky Capsule fares rose on 1 May 2026 to ₩50,000–60,000. The ₩40,000 in most guides is now a resident price, and two official pages still show it.
+- **[Busan Sky Capsule Price and Booking: New Fare, Sunset Slots](https://hanokdays.com/posts/busan-sky-capsule-booking/)**
+  Busan Sky Capsule fares rose per capsule on 1 May 2026 and two official pages still show the old price. From the operator's notice: current fares, sunset.
 
-- **[Lotte World Busan Tickets: ₩49,000, After3 at 3 PM, and What Foreigners Can Buy](https://hanokdays.com/posts/lotte-world-busan-tickets/)**
-  Lotte World Adventure Busan costs ₩49,000; its afternoon ticket is After3, from 3 PM. Prices, Magic Pass rules and foreigner routes, as of October 2026.
+- **[Lotte World Busan Ticket Price: After3 Pass and Who Can Buy](https://hanokdays.com/posts/lotte-world-busan-tickets/)**
+  Lotte World Busan's adult ticket price and After3 afternoon pass, from the park's own price page. 4 of 12 English pages print the old fare. Who can buy.
 
 - **[Korean Folk Village Tickets for Foreigners: Rate, Discounts, and Getting There](https://hanokdays.com/posts/korean-folk-village-tickets-foreigners/)**
   Korean Folk Village lists a foreigner rate and cheaper official tickets in Korean only. Prices, afternoon tiers, night hours and buses, as of October 2026.
@@ -316,6 +316,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Hwacheon Ice Festival Tickets: Book Online, Walk In, or Tour?](https://hanokdays.com/posts/hwacheon-ice-festival-guide/)**
   Hwacheon Ice Festival runs 9–31 Jan 2027. Which ice fishing route fits your date: online, walk-in, foreigner zone or tour. Fees are 2026 figures.
+
+- **[Vivaldi Park Snowy Land Without Skis: Shuttle, Tour or DIY?](https://hanokdays.com/posts/vivaldi-park-snowy-land-guide/)**
+  Snowy Land 2026-27 dates and fees are not out yet. Compare the official shuttle, Trazy tours and going solo for non-skiers, with 2025-26 values labeled.
 
 ---
 
