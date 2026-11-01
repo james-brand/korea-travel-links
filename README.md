@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-10-31 — 99 guides
+> Last updated: 2026-11-02 — 100 guides
 
 ## Before You Go
 
@@ -36,8 +36,8 @@ Visas, money, connectivity — the things to settle before you fly.
 - **[How Much Does a Week in Korea Cost? A Real Breakdown by Category](https://hanokdays.com/posts/week-in-korea-cost/)**
   A week in Korea runs roughly $500 backpacker, $1,200 mid-range, or $2,200+ comfort — but the useful part is where the money goes.
 
-- **[Buying K-Beauty in Korea: The Instant Tax Refund and the Sale Calendar](https://hanokdays.com/posts/kbeauty-shopping-guide/)**
-  Olive Young gives foreigners an instant in-store tax refund from ₩15,000 with just a passport — and the quarterly sales plus foreign-pay discounts stack.
+- **[Olive Young in Korea: Which Store, Sale Dates, Instant Refund](https://hanokdays.com/posts/kbeauty-shopping-guide/)**
+  Nine Olive Young stores in Myeongdong, two near-identical names. Which one, the 2026 sale dates, Black Friday, and what the instant refund really returns.
 
 ## Getting Around
 
@@ -306,7 +306,7 @@ The island: reservations, buses, and what closes when.
   Namdaemun Market hours differ by building, Sunday is per shop, there is no current night market, and cars are banned 12:00-18:00 from Oct 24, 2026.
 
 - **[Suwon Hwaseong: Night Opening, Monday Closures, Trolley Tickets](https://hanokdays.com/posts/suwon-hwaseong-fortress-guide/)**
-  Hwaseong Haenggung's night opening ends 1 Nov 2026, the trolley closes Mondays and needs a paper ticket from Yeonmudae. Fees and hours, checked Oct 2026.
+  Hwaseong Haenggung's 2026 night opening ended 1 Nov, the trolley closes Mondays and needs a paper ticket from Yeonmudae. Fees and hours, checked Oct 2026.
 
 - **[Pyeongchang Trout Festival: What to Book Online, Hours, Dates](https://hanokdays.com/posts/pyeongchang-trout-festival-guide/)**
   Pyeongchang Trout Festival, 2026 edition: only tent fishing books online, ticket sales close at 16:00, and 2026 opened 8 days late. 2027 dates not out yet.
@@ -319,6 +319,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Vivaldi Park Snowy Land Without Skis: Shuttle, Tour or DIY?](https://hanokdays.com/posts/vivaldi-park-snowy-land-guide/)**
   Snowy Land 2026-27 dates and fees are not out yet. Compare the official shuttle, Trazy tours and going solo for non-skiers, with 2025-26 values labeled.
+
+- **[Olive Young Best Sellers (Nov 2026): Official Top 10 vs the Blogs](https://hanokdays.com/posts/olive-young-best-sellers/)**
+  Olive Young Global's official Top Orders list (checked 1 Nov 2026) is mostly sheet-mask sets and limited editions, compared with English must-buy lists.
 
 ---
 
