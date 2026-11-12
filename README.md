@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-02 — 100 guides
+> Last updated: 2026-11-12 — 101 guides
 
 ## Before You Go
 
@@ -322,6 +322,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Olive Young Best Sellers (Nov 2026): Official Top 10 vs the Blogs](https://hanokdays.com/posts/olive-young-best-sellers/)**
   Olive Young Global's official Top Orders list (checked 1 Nov 2026) is mostly sheet-mask sets and limited editions, compared with English must-buy lists.
+
+- **[Jeonju Hanok Village from Seoul by KTX: Yongsan or Seoul Station, Gyeonggijeon Hours, and What Is Actually Free](https://hanokdays.com/posts/jeonju-hanok-village-from-seoul-ktx/)**
+  Jeonju Hanok Village from Seoul by KTX: Yongsan vs Seoul Station, Gyeonggijeon's 17:00 winter last entry, and what is free. Checked November 2026.
 
 ---
 
