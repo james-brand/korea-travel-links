@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-12 — 101 guides
+> Last updated: 2026-11-18 — 102 guides
 
 ## Before You Go
 
@@ -140,8 +140,8 @@ The island: reservations, buses, and what closes when.
 - **[Changdeokgung Secret Garden: The Booking Rules English Guides Missed](https://hanokdays.com/posts/changdeokgung-secret-garden/)**
   Booking Changdeokgung's Secret Garden in 2026: the palace pass no longer covers it, guided tours are now optional, and English sessions sell out first.
 
-- **[Jjimjilbang Rules in Korea: The Two Clocks, the Curfew, and Who Gets Turned Away](https://hanokdays.com/posts/jjimjilbang-guide/)**
-  Korean bath houses run on two different clocks, minors face a statutory night curfew with a written-consent exception, and one venue English guides still rank first no longer exists.
+- **[Jjimjilbang in Korea: What It Costs, Can You Sleep There, Rules for Foreigners](https://hanokdays.com/posts/jjimjilbang-guide/)**
+  What a jjimjilbang costs in Korea, whether you can sleep there overnight, why the night rate starts at 20:00, and the entry rules foreigners miss.
 
 - **[DMZ Tour from Seoul or On Your Own: What Your Date Decides](https://hanokdays.com/posts/dmz-tour-guide/)**
   Can you go to the DMZ without a tour? Yes, on Paju's shuttle. What your date decides: Mondays, the Nov 23-30 Dora works, lift slots, the 14:30 cutoff.
@@ -325,6 +325,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Jeonju Hanok Village from Seoul by KTX: Yongsan or Seoul Station, Gyeonggijeon Hours, and What Is Actually Free](https://hanokdays.com/posts/jeonju-hanok-village-from-seoul-ktx/)**
   Jeonju Hanok Village from Seoul by KTX: Yongsan vs Seoul Station, Gyeonggijeon's 17:00 winter last entry, and what is free. Checked November 2026.
+
+- **[Best Jjimjilbang in Seoul: 9 Open Ones Ranked, 4 No Longer Open](https://hanokdays.com/posts/seoul-jjimjilbang-ranked/)**
+  Best jjimjilbang in Seoul ranked by overnight stay, access, cost: nine open in November 2026, and famous ones English guides list that no longer operate.
 
 ---
 
