@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-18 — 102 guides
+> Last updated: 2026-11-25 — 103 guides
 
 ## Before You Go
 
@@ -307,6 +307,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Suwon Hwaseong: Night Opening, Monday Closures, Trolley Tickets](https://hanokdays.com/posts/suwon-hwaseong-fortress-guide/)**
   Hwaseong Haenggung's 2026 night opening ended 1 Nov, the trolley closes Mondays and needs a paper ticket from Yeonmudae. Fees and hours, checked Oct 2026.
+
+- **[Jinhae Cherry Blossom Festival From Busan: Dates, Hours, Shuttles](https://hanokdays.com/posts/jinhae-cherry-blossom-festival-guide/)**
+  Jinhae Gunhangje 2026 edition: Navy bases open 28 Mar–5 Apr, last entry 15:30 on foot, free shuttles on four weekend days only. Checked Oct 2026.
 
 - **[Pyeongchang Trout Festival: What to Book Online, Hours, Dates](https://hanokdays.com/posts/pyeongchang-trout-festival-guide/)**
   Pyeongchang Trout Festival, 2026 edition: only tent fishing books online, ticket sales close at 16:00, and 2026 opened 8 days late. 2027 dates not out yet.
