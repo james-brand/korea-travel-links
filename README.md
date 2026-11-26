@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-25 — 103 guides
+> Last updated: 2026-11-26 — 103 guides
 
 ## Before You Go
 
