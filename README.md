@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-26 — 103 guides
+> Last updated: 2026-11-26 — 104 guides
 
 ## Before You Go
 
@@ -331,6 +331,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Best Jjimjilbang in Seoul: 9 Open Ones Ranked, 4 No Longer Open](https://hanokdays.com/posts/seoul-jjimjilbang-ranked/)**
   Best jjimjilbang in Seoul ranked by overnight stay, access, cost: nine open in November 2026, and famous ones English guides list that no longer operate.
+
+- **[Gyeongju Day Trip from Busan: Last Train, Which Station, and What the Tours Skip](https://hanokdays.com/posts/gyeongju-day-trip-from-busan/)**
+  Can you do Gyeongju as a day trip from Busan? The last KTX back is 23:46, the Donghae Line reaches the same station, and Tour Course A skips Seokguram.
 
 ---
 
