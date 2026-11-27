@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-27 — 105 guides
+> Last updated: 2026-11-28 — 107 guides
 
 ## Before You Go
 
@@ -337,6 +337,12 @@ The island: reservations, buses, and what closes when.
 
 - **[Seoul to Gyeongju by Train: The Ahwa Trap, Which Station, and the Last Train](https://hanokdays.com/posts/gyeongju-from-seoul-train/)**
   Seoul to Gyeongju by train: an "Ahwa" row is not Gyeongju Station, Seoul Station's KTX-Eum is slower, and the last train back differs by station.
+
+- **[How to Order Food in Korea Without Reading Hangul: 3 Situations, 3 Fixes](https://hanokdays.com/posts/how-to-order-food-korea/)**
+  Can't read the menu? Three situations block most visitors: solo minimums, menu photo translation, and pay-first kiosks. Here is how to handle each.
+
+- **[Incheon Airport Layover: What You Can Do in 8, 12 or 24 Hours](https://hanokdays.com/posts/incheon-layover-guide/)**
+  Layover at Incheon? See what fits in 8, 12 or 24 hours, which free airport tours run on which weekday, and why K-ETA decides whether you can leave.
 
 ---
 
