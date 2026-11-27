@@ -3,7 +3,7 @@
 An index of guides from [Hanok Days](https://hanokdays.com) — English-language Korea travel information,
 checked against Korean-language sources (official notices, reservation systems, operator sites).
 
-> Last updated: 2026-11-26 — 104 guides
+> Last updated: 2026-11-27 — 105 guides
 
 ## Before You Go
 
@@ -334,6 +334,9 @@ The island: reservations, buses, and what closes when.
 
 - **[Gyeongju Day Trip from Busan: Last Train, Which Station, and What the Tours Skip](https://hanokdays.com/posts/gyeongju-day-trip-from-busan/)**
   Can you do Gyeongju as a day trip from Busan? The last KTX back is 23:46, the Donghae Line reaches the same station, and Tour Course A skips Seokguram.
+
+- **[Seoul to Gyeongju by Train: The Ahwa Trap, Which Station, and the Last Train](https://hanokdays.com/posts/gyeongju-from-seoul-train/)**
+  Seoul to Gyeongju by train: an "Ahwa" row is not Gyeongju Station, Seoul Station's KTX-Eum is slower, and the last train back differs by station.
 
 ---
 
